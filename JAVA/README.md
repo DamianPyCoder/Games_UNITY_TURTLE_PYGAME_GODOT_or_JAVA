@@ -6,33 +6,33 @@
 
 #
 # 1. Cute Krabby versus Green Demons
-![](https://github.com/DamianPyCoder/SmallGamesApp_withJava/blob/main/cuteKrabby/2_250px.jpg)
-![](https://github.com/DamianPyCoder/SmallGamesApp_withJava/blob/main/cuteKrabby/3_250px.jpg)
-![](https://github.com/DamianPyCoder/SmallGamesApp_withJava/blob/main/cuteKrabby/6_250px.jpg)
-![](https://github.com/DamianPyCoder/SmallGamesApp_withJava/blob/main/cuteKrabby/4_250px.jpg)
-![](https://github.com/DamianPyCoder/SmallGamesApp_withJava/blob/main/cuteKrabby/5_250px.jpg)
-![](https://github.com/DamianPyCoder/SmallGamesApp_withJava/blob/main/cuteKrabby/1_250px.jpg)
+![](https://github.com/DamianPyCoder/Games_with_Unity_Turtle_Pygame_Godot_and_Java/blob/main/JAVA/CUTE_KRABBY/2_250px.jpg)
+![](https://github.com/DamianPyCoder/Games_with_Unity_Turtle_Pygame_Godot_and_Java/blob/main/JAVA/CUTE_KRABBY/3_250px.jpg)
+![](https://github.com/DamianPyCoder/Games_with_Unity_Turtle_Pygame_Godot_and_Java/blob/main/JAVA/CUTE_KRABBY/6_250px.jpg)
+![](https://github.com/DamianPyCoder/Games_with_Unity_Turtle_Pygame_Godot_and_Java/blob/main/JAVA/CUTE_KRABBY/4_250px.jpg)
+![](https://github.com/DamianPyCoder/Games_with_Unity_Turtle_Pygame_Godot_and_Java/blob/main/JAVA/CUTE_KRABBY/5_250px.jpg)
+![](https://github.com/DamianPyCoder/Games_with_Unity_Turtle_Pygame_Godot_and_Java/blob/main/JAVA/CUTE_KRABBY/1_250px.jpg)
 
 
 
 ### 1.1 APK
-[Download link](https://github.com/DamianPyCoder/SmallGamesApp_withJava/blob/main/appCuteKrabby.apk)
+[Download link](https://github.com/DamianPyCoder/Games_with_Unity_Turtle_Pygame_Godot_and_Java/blob/main/JAVA/CUTE_KRABBY/appCuteKrabby.apk)
 
 ```diff
 The code is in a privat repository
 ``` 
 
 ### 1.2 Icon
-![](https://github.com/DamianPyCoder/SmallGamesApp_withJava/blob/main/cuteKrabby/icono100.png)
+![](https://github.com/DamianPyCoder/Games_with_Unity_Turtle_Pygame_Godot_and_Java/blob/main/JAVA/CUTE_KRABBY/icono100.png)
 
 ### 1.3 Our Krabby
-![](https://github.com/DamianPyCoder/SmallGamesApp_withJava/blob/main/cuteKrabby/krabbyBig.png)
-![](https://github.com/DamianPyCoder/SmallGamesApp_withJava/blob/main/cuteKrabby/krabby.png)
+![](https://github.com/DamianPyCoder/Games_with_Unity_Turtle_Pygame_Godot_and_Java/blob/main/JAVA/CUTE_KRABBY/krabbyBig.png)
+![](https://github.com/DamianPyCoder/Games_with_Unity_Turtle_Pygame_Godot_and_Java/blob/main/JAVA/CUTE_KRABBY/krabby.png)
 
 
 ### 1.4 Enemies live and after die
-![](https://github.com/DamianPyCoder/SmallGamesApp_withJava/blob/main/cuteKrabby/enemigo.png)
-![](https://github.com/DamianPyCoder/SmallGamesApp_withJava/blob/main/cuteKrabby/calavera.png)
+![](https://github.com/DamianPyCoder/Games_with_Unity_Turtle_Pygame_Godot_and_Java/blob/main/JAVA/CUTE_KRABBY/enemigo.png)
+![](https://github.com/DamianPyCoder/Games_with_Unity_Turtle_Pygame_Godot_and_Java/blob/main/JAVA/CUTE_KRABBY/calavera.png)
 
 
 ### 1.5 Source of resources
