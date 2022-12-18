@@ -45,28 +45,28 @@ Assets font:         https://quaternius.itch.io/ultimate-platformer-pack
 
 #
 # 2. PixelFish
-![](https://github.com/DamianPyCoder/App_Games_withJava/blob/main/screenshots/mini250px/0.jfif)
-![](https://github.com/DamianPyCoder/App_Games_withJava/blob/main/screenshots/mini250px/1.jfif)
-![](https://github.com/DamianPyCoder/App_Games_withJava/blob/main/screenshots/mini250px/2.jfif)
-![](https://github.com/DamianPyCoder/App_Games_withJava/blob/main/screenshots/mini250px/3.jfif)
-![](https://github.com/DamianPyCoder/App_Games_withJava/blob/main/screenshots/mini250px/4.jfif)
-![](https://github.com/DamianPyCoder/App_Games_withJava/blob/main/screenshots/mini250px/5.jfif)
+![](https://github.com/DamianPyCoder/Games_with_Unity_Turtle_Pygame_Godot_and_Java/blob/main/JAVA/PIXEL_FISH/mini250px/0.jfif)
+![](https://github.com/DamianPyCoder/Games_with_Unity_Turtle_Pygame_Godot_and_Java/blob/main/JAVA/PIXEL_FISH/mini250px/1.jfif)
+![](https://github.com/DamianPyCoder/Games_with_Unity_Turtle_Pygame_Godot_and_Java/blob/main/JAVA/PIXEL_FISH/mini250px/2.jfif)
+![](https://github.com/DamianPyCoder/Games_with_Unity_Turtle_Pygame_Godot_and_Java/blob/main/JAVA/PIXEL_FISH/mini250px/3.jfif)
+![](https://github.com/DamianPyCoder/Games_with_Unity_Turtle_Pygame_Godot_and_Java/blob/main/JAVA/PIXEL_FISH/mini250px/4.jfif)
+![](https://github.com/DamianPyCoder/Games_with_Unity_Turtle_Pygame_Godot_and_Java/blob/main/JAVA/PIXEL_FISH/mini250px/5.jfif)
 
 
 ### 2.1 APK
-[Download link](https://github.com/DamianPyCoder/App_Games_withJava/blob/main/screenshots/app-debug.apk)
+[Download link](https://github.com/DamianPyCoder/Games_with_Unity_Turtle_Pygame_Godot_and_Java/blob/main/JAVA/PIXEL_FISH/app-debug.apk)
 
 ```diff
 The code is in a privat repository
 ``` 
 
 ### 2.2 Icon
-![](https://github.com/DamianPyCoder/App_Games_withJava/blob/main/screenshots/bird_main100.png)
+![](https://github.com/DamianPyCoder/Games_with_Unity_Turtle_Pygame_Godot_and_Java/blob/main/JAVA/PIXEL_FISH/bird_main100.png)
 
 
 ### 2.3 Titles and assets
-![](https://github.com/DamianPyCoder/App_Games_withJava/blob/main/screenshots/title.png)
-![](https://github.com/DamianPyCoder/App_Games_withJava/blob/main/screenshots/gameover.png)
+![](https://github.com/DamianPyCoder/Games_with_Unity_Turtle_Pygame_Godot_and_Java/blob/main/JAVA/PIXEL_FISH/title.png)
+![](https://github.com/DamianPyCoder/Games_with_Unity_Turtle_Pygame_Godot_and_Java/blob/main/JAVA/PIXEL_FISH/gameover.png)
 
 
 ### 2.4 Source of resources
