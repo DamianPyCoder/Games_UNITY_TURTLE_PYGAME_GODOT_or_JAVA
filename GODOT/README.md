@@ -9,12 +9,12 @@
 
 ## STAR WARS SPACE SHOOTER.
 
-![](https://github.com/DamianPyCoder/Games_withGodot/blob/main/screenshots/starWars/StarWars_1.jpeg)_ 
-![](https://github.com/DamianPyCoder/Games_withGodot/blob/main/screenshots/starWars/StarWars_2.jpeg)_ 
-![](https://github.com/DamianPyCoder/Games_withGodot/blob/main/screenshots/starWars/StarWars_3.jpeg)_ 
-![](https://github.com/DamianPyCoder/Games_withGodot/blob/main/screenshots/starWars/StarWars_4.jpeg)_ 
-![](https://github.com/DamianPyCoder/Games_withGodot/blob/main/screenshots/starWars/StarWars_7.jpeg)_ 
-![](https://github.com/DamianPyCoder/Games_withGodot/blob/main/screenshots/starWars/StarWars_8.jpeg)  
+![](https://github.com/DamianPyCoder/Games_with_Unity_Turtle_Pygame_Godot_and_Java/blob/main/GODOT/STAR_WARS/StarWars_1.jpeg)_ 
+![](https://github.com/DamianPyCoder/Games_with_Unity_Turtle_Pygame_Godot_and_Java/blob/main/GODOT/STAR_WARS/StarWars_2.jpeg)_ 
+![](https://github.com/DamianPyCoder/Games_with_Unity_Turtle_Pygame_Godot_and_Java/blob/main/GODOT/STAR_WARS/StarWars_3.jpeg)_ 
+![](https://github.com/DamianPyCoder/Games_with_Unity_Turtle_Pygame_Godot_and_Java/blob/main/GODOT/STAR_WARS/StarWars_4.jpeg)_ 
+![](https://github.com/DamianPyCoder/Games_with_Unity_Turtle_Pygame_Godot_and_Java/blob/main/GODOT/STAR_WARS/StarWars_7.jpeg)_ 
+![](https://github.com/DamianPyCoder/Games_with_Unity_Turtle_Pygame_Godot_and_Java/blob/main/GODOT/STAR_WARS/StarWars_8.jpeg)  
 
 ### Description.
 This is the classic spaceship shooting game of a lifetime. The mission of this spaceship game is to destroy waves of enemies with your alien weapons. You must be armed with the best weapons for the final boss of the level.
@@ -26,31 +26,31 @@ This is the classic spaceship shooting game of a lifetime. The mission of this s
 
 ### Background
 
-![](https://github.com/DamianPyCoder/Games_withGodot/blob/main/screenshots/starWars/Nebula2.png)
-![](https://github.com/DamanPyCoder/Games_withGodot/blob/main/screenshots/starWars/Nebula3.png)
-![](https://github.com/DamianPyCoder/Games_withGodot/blob/main/screenshots/starWars/star_so_far.png)
+![](https://github.com/DamianPyCoder/Games_with_Unity_Turtle_Pygame_Godot_and_Java/blob/main/GODOT/STAR_WARS/Nebula2.png)
+![](https://github.com/DamianPyCoder/Games_with_Unity_Turtle_Pygame_Godot_and_Java/blob/main/GODOT/STAR_WARS/Nebula3.png)
+![](https://github.com/DamianPyCoder/Games_with_Unity_Turtle_Pygame_Godot_and_Java/blob/main/GODOT/STAR_WARS/star_so_far.png)
 
 
 ### Assets.
-![](https://github.com/DamianPyCoder/Games_withGodot/blob/main/screenshots/starWars/player_1.png)
-![](https://github.com/DamianPyCoder/Games_withGodot/blob/main/screenshots/starWars/bubble.png)
-![](https://github.com/DamianPyCoder/Games_withGodot/blob/main/screenshots/starWars/powerup.png)
-![](https://github.com/DamianPyCoder/Games_withGodot/blob/main/screenshots/starWars/shield.png)
-![](https://github.com/DamianPyCoder/Games_withGodot/blob/main/screenshots/starWars/laser.png)
-![](https://github.com/DamianPyCoder/Games_withGodot/blob/main/screenshots/starWars/laser_green.png)
-![](https://github.com/DamianPyCoder/Games_withGodot/blob/main/screenshots/starWars/heart.png)
-![](https://github.com/DamianPyCoder/Games_withGodot/blob/main/screenshots/starWars/pause.png)
+![](https://github.com/DamianPyCoder/Games_with_Unity_Turtle_Pygame_Godot_and_Java/blob/main/GODOT/STAR_WARS/player_1.png)
+![](https://github.com/DamianPyCoder/Games_with_Unity_Turtle_Pygame_Godot_and_Java/blob/main/GODOT/STAR_WARS/bubble.png)
+![](https://github.com/DamianPyCoder/Games_with_Unity_Turtle_Pygame_Godot_and_Java/blob/main/GODOT/STAR_WARS/powerup.png)
+![](https://github.com/DamianPyCoder/Games_with_Unity_Turtle_Pygame_Godot_and_Java/blob/main/GODOT/STAR_WARS/shield.png)
+![](https://github.com/DamianPyCoder/Games_with_Unity_Turtle_Pygame_Godot_and_Java/blob/main/GODOT/STAR_WARS/laser.png)
+![](https://github.com/DamianPyCoder/Games_with_Unity_Turtle_Pygame_Godot_and_Java/blob/main/GODOT/STAR_WARS/laser_green.png)
+![](https://github.com/DamianPyCoder/Games_with_Unity_Turtle_Pygame_Godot_and_Java/blob/main/GODOT/STAR_WARS/heart.png)
+![](https://github.com/DamianPyCoder/Games_with_Unity_Turtle_Pygame_Godot_and_Java/blob/main/GODOT/STAR_WARS/pause.png)
 
 
 
-![](https://github.com/DamianPyCoder/Games_withGodot/blob/main/screenshots/starWars/explosion_short.png)
-![](https://github.com/DamianPyCoder/Games_withGodot/blob/main/screenshots/starWars/explosion_large.png)
-![](https://github.com/DamianPyCoder/Games_withGodot/blob/main/screenshots/starWars/enemy_1.png)
-![](https://github.com/DamianPyCoder/Games_withGodot/blob/main/screenshots/starWars/enemy_3.png)
+![](https://github.com/DamianPyCoder/Games_with_Unity_Turtle_Pygame_Godot_and_Java/blob/main/GODOT/STAR_WARS/explosion_short.png)
+![](https://github.com/DamianPyCoder/Games_with_Unity_Turtle_Pygame_Godot_and_Java/blob/main/GODOT/STAR_WARS/explosion_large.png)
+![](https://github.com/DamianPyCoder/Games_with_Unity_Turtle_Pygame_Godot_and_Java/blob/main/GODOT/STAR_WARS/enemy_1.png)
+![](https://github.com/DamianPyCoder/Games_with_Unity_Turtle_Pygame_Godot_and_Java/blob/main/GODOT/STAR_WARS/enemy_3.png)
 
 
 
-![](https://github.com/DamianPyCoder/Games_withGodot/blob/main/screenshots/starWars/spaceship3D.png)
+![](https://github.com/DamianPyCoder/Games_with_Unity_Turtle_Pygame_Godot_and_Java/blob/main/GODOT/STAR_WARS/spaceship3D.png)
 
 
 
@@ -72,9 +72,9 @@ invulnerable, and a third that gives you extra lives.
 
 ## CLON POKEMON GAME.
 
-![](https://github.com/DamianPyCoder/Games_withGodot/blob/main/screenshots/pokemon/1.png)
-![](https://github.com/DamianPyCoder/Games_withGodot/blob/main/screenshots/pokemon/3.png)
-![](https://github.com/DamianPyCoder/Games_withGodot/blob/main/screenshots/pokemon/2.png)
+![](https://github.com/DamianPyCoder/Games_with_Unity_Turtle_Pygame_Godot_and_Java/blob/main/GODOT/POKEMON/1.png)
+![](https://github.com/DamianPyCoder/Games_with_Unity_Turtle_Pygame_Godot_and_Java/blob/main/GODOT/POKEMON/3.png)
+![](https://github.com/DamianPyCoder/Games_with_Unity_Turtle_Pygame_Godot_and_Java/blob/main/GODOT/POKEMON/2.png)
 
 ### Description.
 Pokémon is a series of video games developed by Game Freak and published by Nintendo and The Pokémon Company under the Pokémon media franchise. It was created by Satoshi Tajiri with assistance from Ken Sugimori, the first games, Pocket Monsters Red and Green, were released in 1996 in Japan for the Game Boy, later released outside of Japan as Pokémon Red and Blue. The main series of role-playing video games (RPGs), referred as the "core series" by their developers, have continued on each generation of Nintendo's handhelds. The most recently released core series game, Pokémon Scarlet and Violet, was released on November 18, 2022, for the Nintendo Switch.
@@ -86,13 +86,13 @@ Pokémon is estimated to be the largest media franchise, with successful anime s
 
 
 ### Your character.
-![](https://github.com/DamianPyCoder/Games_withGodot/blob/main/screenshots/pokemon/player.png)
+![](https://github.com/DamianPyCoder/Games_with_Unity_Turtle_Pygame_Godot_and_Java/blob/main/GODOT/POKEMON/player.png)
 ### Assets.
-![](https://github.com/DamianPyCoder/Games_withGodot/blob/main/screenshots/pokemon/spritesheet.png)
-![](https://github.com/DamianPyCoder/Games_withGodot/blob/main/screenshots/pokemon/tile1.png)
+![](https://github.com/DamianPyCoder/Games_with_Unity_Turtle_Pygame_Godot_and_Java/blob/main/GODOT/POKEMON/spritesheet.png)
+![](https://github.com/DamianPyCoder/Games_with_Unity_Turtle_Pygame_Godot_and_Java/blob/main/GODOT/POKEMON/tile1.png)
 
 ### Font.
-![](https://github.com/DamianPyCoder/Games_withGodot/blob/main/screenshots/pokemon/text.png)
+![](https://github.com/DamianPyCoder/Games_with_Unity_Turtle_Pygame_Godot_and_Java/blob/main/GODOT/POKEMON/text.png)
 
 
 ### Controls.
@@ -120,14 +120,14 @@ Most games in the Bomberman franchise largely revolve around two modes of play; 
 
 
 
-![](https://github.com/DamianPyCoder/Games_withGodot/blob/main/screenshots/bomberman/bomberman22.png)
+![](https://github.com/DamianPyCoder/Games_with_Unity_Turtle_Pygame_Godot_and_Java/blob/main/GODOT/BOMBERMAN/bomberman22.png)
 
 ### Font.
-![](https://github.com/DamianPyCoder/Games_withGodot/blob/main/screenshots/bomberman/letra.png)
+![](https://github.com/DamianPyCoder/Games_with_Unity_Turtle_Pygame_Godot_and_Java/blob/main/GODOT/BOMBERMAN/letra.png)
 
 
 ### Sprites.
-![](https://github.com/DamianPyCoder/Games_withGodot/blob/main/screenshots/bomberman/sprites2.png)
+![](https://github.com/DamianPyCoder/Games_with_Unity_Turtle_Pygame_Godot_and_Java/blob/main/GODOT/BOMBERMAN/sprites2.png)
 
 
 ### Controls.
@@ -150,39 +150,40 @@ Let a explosive:      X
 
 This game was part of a small gift for a special person for me because she loved this little blue one called Stitch. Is a classical platform game with two levels, because is unfinished. In the future I want to improve the scenarios, the mobility of the character, add more levels with more diversity of scenarios.
 
-![](https://github.com/DamianPyCoder/Games_withGodot/blob/main/screenshots/stitch6.jpg)
-![](https://github.com/DamianPyCoder/Games_withGodot/blob/main/screenshots/stitch3.jpg)
+![](https://github.com/DamianPyCoder/Games_with_Unity_Turtle_Pygame_Godot_and_Java/blob/main/GODOT/STITCH/stitch6.jpg)
+![](https://github.com/DamianPyCoder/Games_with_Unity_Turtle_Pygame_Godot_and_Java/blob/main/GODOT/STITCH/stitch3.jpg)
 
 
 ### Screenshots.
-![](https://github.com/DamianPyCoder/Games_withGodot/blob/main/screenshots/stitch1_260.jpg)
-![](https://github.com/DamianPyCoder/Games_withGodot/blob/main/screenshots/stitch2_260.jpg)
+![](https://github.com/DamianPyCoder/Games_with_Unity_Turtle_Pygame_Godot_and_Java/blob/main/GODOT/STITCH/stitch1_260.jpg)
+![](https://github.com/DamianPyCoder/Games_with_Unity_Turtle_Pygame_Godot_and_Java/blob/main/GODOT/STITCH/stitch2_260.jpg)
 
 
 
 ### The character. 
-![](https://github.com/DamianPyCoder/Games_withGodot/blob/main/screenshots/heart.png)
-### The moves: ![](https://github.com/DamianPyCoder/Games_withGodot/blob/main/screenshots/movesBlack.png)
-### The enemy Bat: ![](https://github.com/DamianPyCoder/Games_withGodot/blob/main/screenshots/opossum.png)
+![](https://github.com/DamianPyCoder/Games_with_Unity_Turtle_Pygame_Godot_and_Java/blob/main/GODOT/STITCH/heart.png)
+### The moves: ![](https://github.com/DamianPyCoder/Games_with_Unity_Turtle_Pygame_Godot_and_Java/blob/main/GODOT/STITCH/movesBlack.png)
+### The enemy Bat: ![](https://github.com/DamianPyCoder/Games_with_Unity_Turtle_Pygame_Godot_and_Java/blob/main/GODOT/STITCH/opossum.png)
 
 
 ### Assets.
-![](https://github.com/DamianPyCoder/Games_withGodot/blob/main/screenshots/autotilemap-brick.png)
-![](https://github.com/DamianPyCoder/Games_withGodot/blob/main/screenshots/autotilemap.png)
-![](https://github.com/DamianPyCoder/Games_withGodot/blob/main/screenshots/cherry.png)
-![](https://github.com/DamianPyCoder/Games_withGodot/blob/main/screenshots/example.PNG)
-![](https://github.com/DamianPyCoder/Games_withGodot/blob/main/screenshots/props.png)
-![](https://github.com/DamianPyCoder/Games_withGodot/blob/main/screenshots/tileset.png)
+![](https://github.com/DamianPyCoder/Games_with_Unity_Turtle_Pygame_Godot_and_Java/blob/main/GODOT/STITCH/autotilemap-brick.png)
+![](https://github.com/DamianPyCoder/Games_with_Unity_Turtle_Pygame_Godot_and_Java/blob/main/GODOT/STITCH/autotilemap.png)
+![](https://github.com/DamianPyCoder/Games_with_Unity_Turtle_Pygame_Godot_and_Java/blob/main/GODOT/STITCH/cherry.png)
+![](https://github.com/DamianPyCoder/Games_with_Unity_Turtle_Pygame_Godot_and_Java/blob/main/GODOT/STITCH/example.PNG)
+![](https://github.com/DamianPyCoder/Games_with_Unity_Turtle_Pygame_Godot_and_Java/blob/main/GODOT/STITCH/props.png)
+![](https://github.com/DamianPyCoder/Games_with_Unity_Turtle_Pygame_Godot_and_Java/blob/main/GODOT/STITCH/tileset.png)
 
 ### Buttons. 
-![](https://github.com/DamianPyCoder/Games_withGodot/blob/main/screenshots/jump.png)
-![](https://github.com/DamianPyCoder/Games_withGodot/blob/main/screenshots/jump_transparent.png)
-![](https://github.com/DamianPyCoder/Games_withGodot/blob/main/screenshots/left.png)![](https://github.com/DamianPyCoder/Games_withGodot/blob/main/screenshots/left_transparent.png)
-![](https://github.com/DamianPyCoder/Games_withGodot/blob/main/screenshots/right.png)
-![](https://github.com/DamianPyCoder/Games_withGodot/blob/main/screenshots/right_transparent.png)
-![](https://github.com/DamianPyCoder/Games_withGodot/blob/main/screenshots/shoot.png)
-![](https://github.com/DamianPyCoder/Games_withGodot/blob/main/screenshots/shoot_transparent.png)
-![](https://github.com/DamianPyCoder/Games_withGodot/blob/main/screenshots/start_game.png)
+![](https://github.com/DamianPyCoder/Games_with_Unity_Turtle_Pygame_Godot_and_Java/blob/main/GODOT/STITCH/jump.png)
+![](https://github.com/DamianPyCoder/Games_with_Unity_Turtle_Pygame_Godot_and_Java/blob/main/GODOT/STITCH/jump_transparent.png)
+![](https://github.com/DamianPyCoder/Games_with_Unity_Turtle_Pygame_Godot_and_Java/blob/main/GODOT/STITCH/left.png)
+![](https://github.com/DamianPyCoder/Games_with_Unity_Turtle_Pygame_Godot_and_Java/blob/main/GODOT/STITCH/left_transparent.png)
+![](https://github.com/DamianPyCoder/Games_with_Unity_Turtle_Pygame_Godot_and_Java/blob/main/GODOT/STITCH/right.png)
+![](https://github.com/DamianPyCoder/Games_with_Unity_Turtle_Pygame_Godot_and_Java/blob/main/GODOT/STITCH/right_transparent.png)
+![](https://github.com/DamianPyCoder/Games_with_Unity_Turtle_Pygame_Godot_and_Java/blob/main/GODOT/STITCH/shoot.png)
+![](https://github.com/DamianPyCoder/Games_with_Unity_Turtle_Pygame_Godot_and_Java/blob/main/GODOT/STITCH/shoot_transparent.png)
+![](https://github.com/DamianPyCoder/Games_with_Unity_Turtle_Pygame_Godot_and_Java/blob/main/GODOT/STITCH/start_game.png)
 
 
 
