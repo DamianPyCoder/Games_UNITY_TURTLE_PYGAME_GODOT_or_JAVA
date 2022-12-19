@@ -8,7 +8,7 @@ If you want know more about Turtle visit: https://docs.python.org/3/library/turt
 
 
 ## SNAKE
-![](https://github.com/DamianPyCoder/SmallGames_withTurtlePython/blob/main/Screenshots/snake2.png)
+![](https://github.com/DamianPyCoder/Games_with_Unity_Turtle_Pygame_Godot_and_Java/blob/main/TURTLE/SNAKE/snake2.png)
 
 #### WHAT'S THE GAME ABOUT.
 The tarjet of this game is to eat the small turtles that appear randomly on the screen one by one, without touching the limits or itself. The difficulty lies in the fact that each turtle that it feeds on makes its body grow and as the seconds pass, the difficulty to move within the screen will become apparent.
@@ -25,7 +25,7 @@ The tarjet of this game is to eat the small turtles that appear randomly on the 
 #
 #
 ## TENIS
-![](https://github.com/DamianPyCoder/SmallGames_withTurtlePython/blob/main/Screenshots/tenis1.png)
+![](https://github.com/DamianPyCoder/Games_with_Unity_Turtle_Pygame_Godot_and_Java/blob/main/TURTLE/TENIS/tenis1.png)
 
 #### WHAT'S THE GAME ABOUT.
 The classic game of tennis in which two people return a ball to each other using a racket. If you can't return it and it hits the bottom of your wall, then the opponent scores a point. This game is scheduled for two players.
